@@ -6,12 +6,16 @@
 
 
 
-## Learning: 🧑‍🎓
+### Learning: 🧑‍🎓
 - HTML
 - CSS
-- JavaScript
+- Javascript
 - Node.js
 - C
 - SQL
 
-- ##### [Linkedin ](https://www.linkedin.com/in/gf-teixeira/)
+##### [Linkedin ](https://www.linkedin.com/in/gf-teixeira/)
+
+
+
+
