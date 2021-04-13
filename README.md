@@ -1,16 +1,15 @@
 # gf-teixeira  
 
-- ### 👨‍💻 Name: Gabriel Teixeira
-- ### 🏙️ City: Indaiatuba - SP
-- ### 🏫 College: Computer Science (UNESP - Rio Claro)
+- ### 👨‍💻 Gabriel Teixeira
+- ### 🏙️  Indaiatuba - SP
+- ### 🏫 Computer Science (UNESP - Rio Claro)
 
 
 
 ### Learning: 🧑‍🎓
 - HTML
 - CSS
-- Javascript
-- Node.js
+- Javascript (Node.js)
 - C
 - SQL
 
