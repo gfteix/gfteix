@@ -1,16 +1,17 @@
-### Hi there 👋
+# gf-teixeira  
 
-<!--
-**gf-teixeira/gf-teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ### 👨‍💻 Name: Gabriel Teixeira
+- ### 🏙️ City: Indaiatuba - SP
+- ### 🏫 College: Computer Science (UNESP - Rio Claro)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Learning: 🧑‍🎓
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- C
+- SQL
+
+- ##### [Linkedin ](https://www.linkedin.com/in/gf-teixeira/)
