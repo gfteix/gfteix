@@ -1,6 +1,5 @@
-# gf-teixeira  
+## Gabriel Teixeira 👨‍💻
 
-- ### 👨‍💻 Gabriel Teixeira
 - ### 🏙️  Indaiatuba - SP
 - ### 🏫 Computer Science (UNESP - Rio Claro)
 
