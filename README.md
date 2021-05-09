@@ -5,12 +5,12 @@
 
 
 
-### Learning: 🧑‍🎓
+### Learning: 📖
 - HTML
 - CSS
-- Javascript (Node.js)
-- C
+- Javascript (Node.js & React.js)
 - SQL
+
 
 ##### [Linkedin ](https://www.linkedin.com/in/gf-teixeira/)
 
