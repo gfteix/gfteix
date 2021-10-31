@@ -1,5 +1,5 @@
 
-I'm a 19 years old computer science student. I'm from Indaiatuba - SP, living in Indaiatuba and looking for my first job opportunities.
+Just a computer science student
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@ I'm a 19 years old computer science student. I'm from Indaiatuba - SP, living in
   - Studying File Structures
   - Studying Digital Circuits
   - Studying Software Engineering
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+- 🎯 In the near future, I plan to...
   - Study about functional programming (maybe elixir or OCaml)
   - Understand more about operational Systems and compilers
   - Study Latin
@@ -32,9 +32,11 @@ I'm a 19 years old computer science student. I'm from Indaiatuba - SP, living in
   </a>
 </p>
 
-<a href="gfteixeira@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+
+---
+
 <a href="https://www.linkedin.com/in/gf-teixeira//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br>
+
 
 
 
