@@ -1,5 +1,5 @@
 
-Just a computer science student
+A computer science student
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,17 +12,12 @@ Just a computer science student
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
-## ⬆ What I'm up to
-- Studying Introduction to Algorithms By CLRS
-- In College:
-  - Studying Algorithm Analysis
-  - Studying File Structures
-  - Studying Digital Circuits
-  - Studying Software Engineering
-- 🎯 In the near future, I plan to...
-  - Study about functional programming (maybe elixir or OCaml)
-  - Understand more about operational Systems and compilers
-  - Study Latin
+## ⬆ What I'm Studying
+- Javascript
+- Typescript
+- Angular
+- Algorithms and Data Structures
+
 
 ## &#x1f4c8; GitHub Stats
 
