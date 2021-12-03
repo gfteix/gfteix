@@ -22,7 +22,7 @@ A computer science student
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gf-teixeira&hide=Roff,Makefile&show_icons=true&hide_title=true&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&langs_count=10&exclude_repo=play-brain"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gf-teixeira&hide=Roff,Makefile&show_icons=true&hide_title=true&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&langs_count=10&exclude_repo=play-brain,dwm"/>
   </a>
 </p>
 
