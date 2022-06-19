@@ -1,13 +1,4 @@
 
-
-👨‍💻 I am currently working as a Software Developer Intern at CI&T
-
-📚 I am studying computer science at UNESP
-
-   <br>
-   <a href="https://www.linkedin.com/in/gf-teixeira/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gf-teixeira/"/>
-   </a>
  
   <br>
   <br>
